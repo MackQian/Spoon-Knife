@@ -1,0 +1,2 @@
+# Project Thoughts
+I'm not 100% sure what kind of project to work on. I think something interesting to work on is a web game with some sort of multiplayer, as I have no experience with any web stuff, so it might be fun to learn some web development while making something fun. I guess I would probably want to go with a blessed repository workflow for a project like this.
